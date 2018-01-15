@@ -1,0 +1,47 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+body{
+    font-family: Sofia;
+    font-size: 17px;
+    color: #02363def;
+    line-height: 1.6;
+}
+
+#showcase{
+    background-image: url(../img/watermellon.jpg);
+    background-position: center;
+    background-size: cover;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 0 20px;
+    text-align: center;
+}
+
+#showcase h1{
+    font-size: 50px;
+    line-height: 1.2;
+}
+
+#showcase{
+    font-size: 20px;
+}
+
+#showcase .button{
+    text-decoration: none;
+    color: #023144e5;
+    border: 1px solid #023144e5;
+    padding: 10px 20px;
+    margin-top: 20px;
+    border-radius: 10px;
+}
+
+#showcase .button:hover{
+    background: #023144e5;
+    color: #fff;
+}
