@@ -6,7 +6,7 @@
 body{
     font-family: Sofia;
     font-size: 17px;
-    color: #02363def;
+    color: #212121;
     line-height: 1.6;
 }
 
@@ -34,14 +34,14 @@ body{
 
 #showcase .button{
     text-decoration: none;
-    color: #023144e5;
-    border: 1px solid #023144e5;
+    color: #D32F2F;
+    border: 1px solid #D32F2F;
     padding: 10px 20px;
     margin-top: 20px;
     border-radius: 10px;
 }
 
 #showcase .button:hover{
-    background: #023144e5;
+    background: #D32F2F;
     color: #fff;
 }
